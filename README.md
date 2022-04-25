@@ -1,8 +1,8 @@
 # vlang-geany
-Syntax highlighting of V language for Geany.
+Syntax highlightning of V language for Geany.
 
-This is beta version of config.
-At the moment due to file extension conflict the highlithing is made by replacing config of Verilog language.
+This is a beta version of config.
+At the moment due to file extension conflict the highlightning is made by replacing config of Verilog language.
 
 ## Instructions
 
